@@ -1,2 +1,8 @@
-body {font-family: Georgia, 'Times New Roman', Times, serif;} 
-.d-flex {display: flex;} 
+body {font-family: Georgia, 'Times New Roman', Times, serif;}  
+
+.d-flex {display: flex;}    
+caption {color: red;}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  } 
+  
